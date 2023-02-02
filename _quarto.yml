@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+website:
+  title: "John Doe"
+  description: "John Doe is a myth, a legend..."
+  
+  navbar:
+    pinned: true
+    right:
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Page 2"
+        href: page2/index.qmd
+      - text: "Page 3"
+        href: page3/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+    left:
+      - icon: twitter
+        href: https://twitter.com/MarvinSchmittML
+      - icon: linkedin
+        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:mail.marvinschmitt@gmail.com"  
+  
+  search: 
+    location: navbar
+    type: textbox
+  
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2023 CC BY-SA 4.0</span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View template source on GitHub</a></span>
+
+execute:
+  freeze: true
+  
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

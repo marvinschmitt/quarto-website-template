@@ -1,0 +1,32 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "https://thispersondoesnotexist.com/image" # change to img/photo.png
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/MarvinSchmittML
+    - icon: github
+      text: Github
+      href: https://github.com/marvinschmitt
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.marvinschmitt@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am a dedicated and knowledgeable [field], with [number of years of experience] years of experience in the field. My passion for [field of study/profession] stems from my belief in its ability to [brief explanation].
+
+On this site, you will find a comprehensive overview of my education, research, and professional experience. You can learn more about my publications, presentations, and collaborations, and see how I have applied my expertise to real-world problems.
+
+I am always seeking new opportunities to collaborate and make meaningful contributions to my field. Please feel free to [contact me](mailto:mail.marvinschmitt@gmail.com) if you have any questions or would like to discuss potential projects.
+
+Thank you for visiting my site. I hope you will find it informative and engaging.

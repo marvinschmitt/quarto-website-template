@@ -1,0 +1,21 @@
+---
+title: Projects
+---
+
+## Project 1
+
+<img src="/img/project_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
+
+Penatibus et magnis dis parturient montes nascetur ridiculus mus. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Cras sed felis eget velit aliquet. Fusce id velit ut tortor pretium. Tincidunt eget nullam non nisi est sit amet facilisis. Volutpat est velit egestas dui id ornare arcu odio. Aliquet risus feugiat in ante. Id neque aliquam vestibulum morbi blandit cursus risus at. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Cursus euismod quis viverra nibh cras pulvinar mattis. Eget est lorem ipsum dolor sit amet.
+
+----
+
+## Project 2
+
+<img src="/img/project_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
+
+Penatibus et magnis dis parturient montes nascetur ridiculus mus. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Cras sed felis eget velit aliquet. Fusce id velit ut tortor pretium. Tincidunt eget nullam non nisi est sit amet facilisis. Volutpat est velit egestas dui id ornare arcu odio. Aliquet risus feugiat in ante. Id neque aliquam vestibulum morbi blandit cursus risus at. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Cursus euismod quis viverra nibh cras pulvinar mattis. Eget est lorem ipsum dolor sit amet.
