@@ -2,20 +2,27 @@
 title: Projects
 ---
 
-## Project 1
+## The Languages of Middle-earth
 
-<img src="/img/project_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+<img src="/img/project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
 
 <a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
 
-Penatibus et magnis dis parturient montes nascetur ridiculus mus. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Cras sed felis eget velit aliquet. Fusce id velit ut tortor pretium. Tincidunt eget nullam non nisi est sit amet facilisis. Volutpat est velit egestas dui id ornare arcu odio. Aliquet risus feugiat in ante. Id neque aliquam vestibulum morbi blandit cursus risus at. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Cursus euismod quis viverra nibh cras pulvinar mattis. Eget est lorem ipsum dolor sit amet.
+Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
 
 ----
 
-## Project 2
+## The History of the War of the Ring
 
-<img src="/img/project_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+<img src="/img/project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
 
 <a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
 
-Penatibus et magnis dis parturient montes nascetur ridiculus mus. Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Cras sed felis eget velit aliquet. Fusce id velit ut tortor pretium. Tincidunt eget nullam non nisi est sit amet facilisis. Volutpat est velit egestas dui id ornare arcu odio. Aliquet risus feugiat in ante. Id neque aliquam vestibulum morbi blandit cursus risus at. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Cursus euismod quis viverra nibh cras pulvinar mattis. Eget est lorem ipsum dolor sit amet.
+I am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth's history and provide valuable insights into the motivations and actions of the various players involved.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

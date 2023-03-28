@@ -1,0 +1,24 @@
+---
+title: "Photography"
+---
+
+As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.
+
+::: {layout-ncol=2}
+
+![](gandalf_image_1.jpg)
+
+![](gandalf_image_2.jpg)
+
+![](gandalf_image_3.jpg)
+
+![](gandalf_image_4.jpg)
+
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

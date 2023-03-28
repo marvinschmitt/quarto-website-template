@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "https://thispersondoesnotexist.com/image" # change to img/photo.png
+  image: "img/my_image.jpg"
   links:
     - icon: twitter
       text: Twitter
@@ -23,10 +23,18 @@ about:
 
 # Welcome to my website!
 
-I am a dedicated and knowledgeable [field], with [number of years of experience] years of experience in the field. My passion for [field of study/profession] stems from my belief in its ability to [brief explanation].
+I am Gandalf the White, a renowned wizard and scholar of Middle-earth. Over the centuries, I have dedicated my life to studying the history, languages, and cultures of the peoples of Middle-earth. On this website, I offer a glimpse into my vast body of knowledge, ongoing research, and publications.
 
-On this site, you will find a comprehensive overview of my education, research, and professional experience. You can learn more about my publications, presentations, and collaborations, and see how I have applied my expertise to real-world problems.
+My research interests span the entirety of Middle-earth, from the distant past to the present day. I am particularly passionate about the languages and mythologies of the Elves, Dwarves, and Men, and I have made significant contributions to the understanding of these subjects. My studies of the natural world have also been extensive, and I am an expert in the flora and fauna of Middle-earth. Additionally, I have been involved in many important historical events and offer valuable first-hand accounts and insights on the past.
 
-I am always seeking new opportunities to collaborate and make meaningful contributions to my field. Please feel free to [contact me](mailto:mail.marvinschmitt@gmail.com) if you have any questions or would like to discuss potential projects.
+Not only am I a scholar, but I am also a mentor and teacher. Over the centuries, I have had the honor of working with many young wizards, passing on my knowledge and experience to the next generation. I have a particular interest in the education of hobbits, whom I see as having great potential despite their small size and simple lifestyle. My teaching style is engaging and accessible, and I encourage my students to think critically and creatively.
 
-Thank you for visiting my site. I hope you will find it informative and engaging.
+On this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life's work as one of Middle-earth's greatest scholars and thinkers.
+Please feel free to [contact me](mailto:mail.marvinschmitt@gmail.com) if you have any questions or would like to discuss potential projects.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
